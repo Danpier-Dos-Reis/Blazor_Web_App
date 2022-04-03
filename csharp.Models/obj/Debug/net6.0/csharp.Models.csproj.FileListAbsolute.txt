@@ -1,0 +1,12 @@
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/bin/Debug/net6.0/csharp.Models.deps.json
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/bin/Debug/net6.0/csharp.Models.dll
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/bin/Debug/net6.0/csharp.Models.pdb
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/csharp.Models.csproj.AssemblyReference.cache
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/csharp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/csharp.Models.AssemblyInfoInputs.cache
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/csharp.Models.AssemblyInfo.cs
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/csharp.Models.csproj.CoreCompileInputs.cache
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/csharp.Models.dll
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/refint/csharp.Models.dll
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/csharp.Models.pdb
+/home/danpier/Desktop/Web_Practice/contenedor/csharp.Models/obj/Debug/net6.0/ref/csharp.Models.dll

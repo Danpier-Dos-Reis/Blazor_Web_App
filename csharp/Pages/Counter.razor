@@ -1,0 +1,27 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter 405</h1>
+
+<p role="status">Current count: @currentCount</p>
+<p>Customer: @newinstClass.Name</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+    private Class1 newinstClass= new Class1();
+
+    private void IncrementCount()
+    {
+        currentCount++;
+
+        createCustomer(currentCount);
+    }
+
+    private void createCustomer(int currentCount){
+        newinstClass.Id= currentCount;
+        newinstClass.Name= $"Customer: {newinstClass.Id}";
+    }
+}
